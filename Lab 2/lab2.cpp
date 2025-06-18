@@ -1,6 +1,6 @@
 /*
 * Name: Anyshya Hemphill
-* Program 1 – Numbers
+* Program 2 â€“ The Chocolate Factory
 * This is an inventory management system for a chocolate factory.
  */
 
